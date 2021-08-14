@@ -10,4 +10,4 @@ print(user_input,"-",user_input_2," = ", user_input - user_input_2,"\n")# sUBTRA
 print(user_input_2,"-",user_input," = ", user_input_2 - user_input,"\n")# SUBTRACTION
 print(user_input,"%",user_input_2," = ", user_input % user_input_2,"\n")#REMAINDER
 print(user_input,"^",user_input_2," = ", user_input ** user_input_2,"\n")# POWER
-print(user_input,"//",user_input_2," = ", user_input // user_input_2,"\n")# FLOOR
+print(user_input,"//",user_input_2," = ", user_input // user_input_2,"\n")#FLOOR
