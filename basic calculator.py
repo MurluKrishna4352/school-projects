@@ -3,11 +3,11 @@
 
 user_input = float(input("Enter a number: "))
 user_input_2 = float(input("Enter another number: "))
-print(user_input,"+",user_input_2," = ", user_input + user_input_2,"\n ")
-print(user_input,"*",user_input_2," = ", user_input * user_input_2,"\n")
-print(user_input,"/",user_input_2," = ", user_input / user_input_2,"\n")
-print(user_input,"-",user_input_2," = ", user_input - user_input_2,"\n")
-print(user_input_2,"-",user_input," = ", user_input_2 - user_input,"\n")
-print(user_input,"%",user_input_2," = ", user_input % user_input_2,"\n")
-print(user_input,"^",user_input_2," = ", user_input ** user_input_2,"\n")
-print(user_input,"//",user_input_2," = ", user_input // user_input_2,"\n")
+print(user_input,"+",user_input_2," = ", user_input + user_input_2,"\n ")# ADDITION
+print(user_input,"*",user_input_2," = ", user_input * user_input_2,"\n")# MULTIPLICATION
+print(user_input,"/",user_input_2," = ", user_input / user_input_2,"\n")# DIVISION
+print(user_input,"-",user_input_2," = ", user_input - user_input_2,"\n")# sUBTRACTION
+print(user_input_2,"-",user_input," = ", user_input_2 - user_input,"\n")# SUBTRACTION
+print(user_input,"%",user_input_2," = ", user_input % user_input_2,"\n")#REMAINDER
+print(user_input,"^",user_input_2," = ", user_input ** user_input_2,"\n")# POWER
+print(user_input,"//",user_input_2," = ", user_input // user_input_2,"\n")# FLOOR
